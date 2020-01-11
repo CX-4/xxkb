@@ -1,2 +1,2 @@
 # xxkb
-xxkb config
+xxkb config for UK and RU keyboard type
