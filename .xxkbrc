@@ -1,4 +1,4 @@
-XXkb.image.path: /home/enc/.config/xxkb
+XXkb.image.path: ~/.config/xxkb
 
 XXkb.group.base: 1
 XXkb.group.alt: 2
